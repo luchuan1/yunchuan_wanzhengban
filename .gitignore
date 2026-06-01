@@ -1,0 +1,23 @@
+# Keep this repository limited to the playable Yunchuan release.
+*
+
+!.gitignore
+!.gitattributes
+!README.md
+!Yunchuan_WSE2.bat
+!Yunchuan_Warband.bat
+!Modules/
+!Modules/Yunchuan_SourceBuild/
+!Modules/Yunchuan_SourceBuild/**
+
+# Never publish development or backup artifacts.
+*.bak*
+*before_*
+*bad_*
+*backup*
+*.zip
+*.rar
+*.py
+*.ps1
+*.pdb
+YUNCHUAN_BUILD_STATUS.md
