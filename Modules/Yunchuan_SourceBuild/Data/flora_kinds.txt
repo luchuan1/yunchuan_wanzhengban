@@ -1,0 +1,9 @@
+1
+small_plant 0 1
+ small_plant  0
+ small_plant_b  0
+ small_plant_c  0
+grape_vineyard 0 1
+ grape_vineyard  bo_grape_vineyard
+grape_vineyard_stake 0 1
+ grape_vineyard_stake  bo_grape_vineyard_stake

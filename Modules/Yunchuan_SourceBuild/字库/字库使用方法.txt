@@ -1,0 +1,2 @@
+1、将font_data.xml文件，放到Soul_Of_Three_Kingdoms\Data下，覆盖同名文件；
+2、将font.dds文件，放到Soul_Of_Three_Kingdoms\Texture下，覆盖同名文件；
